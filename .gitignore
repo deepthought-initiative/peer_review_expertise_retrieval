@@ -1,12 +1,7 @@
-# Proprietary Data (Strictly Excluded)
-original_data/
-
-# Local Data and Model Caches
-data/
+#Caches
 .ads/
 .cache/
 
-# Python / General
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -14,12 +9,3 @@ __pycache__/
 .venv/
 venv/
 env/
-
-# Output and Experiment Logs
-output/
-*.log
-
-# Project Specific
-.env
-*.bak
-*.swp
