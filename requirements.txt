@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+gensim
+nltk
+sentence-transformers
+torch
+transformers
+adapters
+ads
+openai
